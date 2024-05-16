@@ -12,17 +12,14 @@
 
 ### Welcome to my GitHub profile! 
 
----
-
 I'm Vanilla, a passionate data enthusiast and aspiring data analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
 
 I'm currently pursuing my journey in the field of data analytics and constantly seeking new challenges to grow my skills.
 
 ---
 
-### Skills :
+### Skills
 
----
 
 - 💻 Excel
 - 🐍 Python 3, APIs, NumPy, SciPy, Pandas, and Matplotlib
@@ -45,7 +42,7 @@ Take a look at some of my projects below to see what I've been working on.
 
 ---
 
-### My Stats :
+### My Stats
 <!---Read me Streak Stats--->
 <!---https://github-readme-streak-stats.herokuapp.com/demo/---> 
 <!---theme=dracula & tokyonight are pretty cool too-->
