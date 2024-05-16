@@ -10,9 +10,9 @@
 </h1---!>
 </div>
 
----
+### Welcome to my GitHub profile! 
 
-Welcome to my GitHub profile! 
+---
 
 I'm Vanilla, a passionate data enthusiast and aspiring data analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
 
