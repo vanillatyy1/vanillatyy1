@@ -14,6 +14,8 @@
 
 Welcome to my GitHub profile! I'm Vanilla, a passionate data enthusiast and aspiring data analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I'm currently pursuing my journey in the field of data analytics and constantly seeking new challenges to grow my skills.
 
+---
+
 ### Skills :
 
 ---
